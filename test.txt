@@ -2,3 +2,4 @@ This test is from git
 this is from cmd
 this is after adding ssh
 for automation 
+for jenkins
