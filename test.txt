@@ -1,1 +1,2 @@
-This test is from git 
+This test is from git
+this is from cmd 
