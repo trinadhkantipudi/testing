@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo -e "Shell run test \n\n"
+echo -e "job Triggered by jenkins \n\n"
 echo
 
